@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerView1</string>
+    <string-array name="programming_languages">
+
+        <item>C++</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>python</item>
+        <item>ruby</item>
+        <item>swift</item>
+        <item>TypeScript</item>
+        <item>VisualStudio</item>
+
+
+    </string-array>
+
+    <string-array name="Description_for_each_programming_language">
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+        <item>This is the random description for each lanaguage</item>
+
+
+    </string-array>
+</resources>
